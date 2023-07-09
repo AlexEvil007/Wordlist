@@ -1,1 +1,1 @@
-
+hostname:<TARGET.COM>		// Search all servers how has hostname as <TARGET.COM>
